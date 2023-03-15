@@ -1,7 +1,7 @@
-data2 <- read.table("C:/Users/cib17001/OneDrive - University of Connecticut/PDrive/BIST 5615/dumpingseverity.dat",
+data2 <- read.table("replace filepath",
                     skip=1)
 View(data2)
-data3 <- read.table("C:/Users/cib17001/OneDrive - University of Connecticut/PDrive/BIST 5615/dumpingseverity.dat",
+data3 <- read.table("replace filepath",
                     skip=2)
 View(data3)
 
