@@ -3,6 +3,11 @@ library(sqldf)
 library(data.table)
 library(ggplot2)
 
+
+# Dataset From:
+# https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+
 data1 <- 
   read.csv("//msfs-03.grove.ad.uconn.edu/home/cib17001/Downloads/Motor_Vehicle_Collisions_-_Crashes.csv",
            header=TRUE)
